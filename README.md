@@ -6,5 +6,5 @@ only NFSv3 is opened in this container.
 
 Based on `gcr.io/google-samples/nfs-server`
 
-Built using quay.io: [kingdonb/nfs-data](quay.io/kingdonb/nfs-data)
+Built using quay.io: [kingdonb/nfs-data](//quay.io/kingdonb/nfs-data)
 

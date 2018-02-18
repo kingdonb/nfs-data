@@ -1,2 +1,5 @@
-service:
+nfs:
+  name: nfs
   clusterIP: 10.0.137.112
+  capacity: 1Mi
+  path: "/"

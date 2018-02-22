@@ -1,5 +1,5 @@
 nfs:
   name: nfs
-  clusterIP: 10.0.206.94
+  clusterIP: 10.0.229.17
   capacity: 1Mi
   path: "/"
